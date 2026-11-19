@@ -1,0 +1,1 @@
+Depois de confirmar o endereço público do GitHub Pages, gere sitemap.xml com URLs absolutas usando esse endereço. Não publique um sitemap com domínio fictício.

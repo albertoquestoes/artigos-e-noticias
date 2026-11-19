@@ -1,0 +1,17 @@
+{
+  "title": "Alberto Questões e Notícias",
+  "source_xml": "WordPress WXR export",
+  "source_site_url": "https://alberto-questoes-e-noticias.wp.local",
+  "published_posts": 1246,
+  "published_pages": 3,
+  "categories_used": 728,
+  "tags_used": 299,
+  "drafts_excluded": 6,
+  "images_included": 0,
+  "notes": [
+    "Imagens não foram copiadas para esta versão.",
+    "Links internos reconhecidos para artigos/páginas foram convertidos em links relativos.",
+    "Links internos não resolvidos foram neutralizados para # e devem ser revisados.",
+    "O endereço público do GitHub Pages ainda não foi configurado; URLs relativas permitem publicar sob o caminho do repositório."
+  ]
+}
